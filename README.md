@@ -7,4 +7,4 @@
 
 I'm Gustavo Fabro, full stack web developer with 4 years of professional experience in the field. I've been programming since I was 17. Bachelor in computer science from UNESC (2014 - 2018). My favorite programming language is Javascript, and most of my studies are focused on its ecosystem (Typescript, React, ReactNative, Node, etc.). I'm also a huge fan of clean code. :blue_book::sunglasses:
 
-I currentily work at [Betha Sistemas](http://www.betha.com.br/) as full stack web developer.
+I currentily work at [Dextra](https://dextra.com.br/) as front end developer.
