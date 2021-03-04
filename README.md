@@ -2,6 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-fabro-a42701132/)](https://www.linkedin.com/in/gustavo-fabro-a42701132/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gustavofabro_)](https://twitter.com/gustavofabro_)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gustavofabro.f@gmail.com)](mailto:gustavofabro.f@gmail.com)
+&nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=gustavofabro)
 
 ### Hi there 👋
 
