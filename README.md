@@ -6,7 +6,7 @@ I'm Gustavo Fabro, full stack web developer with 4 years of professional experie
 
 I currentily work at [Dextra](https://dextra.com.br/) as front end developer.
 
-### Skills
+## Skills
 
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -20,7 +20,7 @@ I currentily work at [Dextra](https://dextra.com.br/) as front end developer.
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Contact
+## Contact
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gustavofabro.f@gmail.com)](mailto:gustavofabro.f@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-fabro-a42701132/)](https://www.linkedin.com/in/gustavo-fabro-a42701132/)
