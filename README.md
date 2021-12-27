@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm Gustavo Fabro, full-stack web developer with 4 years of professional experience in the field. Bachelor in computer science from UNESC (2014 - 2018). My favorite programming language is Javascript, and most of my studies are focused on its ecosystem (Typescript, React, ReactNative, Node, etc.). I'm also a huge fan of clean code. :blue_book::sunglasses:
+I'm Gustavo Fabro, full-stack web developer with 5 years of professional experience in the field. Bachelor in computer science from UNESC (2014 - 2018). Focused on front-end and JavaScript development ecosystem (TypeScript, React, ReactNative, Angular, Node, Deno, HTML, CSS etc.). I'm also a huge fan of clean code. :blue_book::sunglasses:
 
 I currentily work at [CI&T](https://ciandt.com/) as front-end developer.
 
