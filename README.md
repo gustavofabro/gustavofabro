@@ -4,7 +4,7 @@
 
 I'm Gustavo Fabro, front-end developer with 6 years of professional experience in the field. Bachelor in computer science from UNESC (2014 - 2018). Focused on front-end and JavaScript development ecosystem (TypeScript, React, ReactNative, Angular, Node, Deno, HTML, CSS etc.). I'm also a huge fan of clean code. :blue_book::sunglasses:
 
-I currently work at [CI&T](https://ciandt.com/) as front-end developer.
+I currently work at [Upstart13](https://upstart13.com/) as front-end Software Engineer.
 
 ## Skills
 
