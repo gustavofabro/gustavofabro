@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm Gustavo Fabro, front-end developer with 9 years of professional experience in the field. Bachelor in computer science from UNESC (2014 - 2018). Focused on front-end and JavaScript development ecosystem (TypeScript, React, ReactNative, Angular, Node, Deno, HTML, CSS etc.). Always attentive to good code quality practices. :blue_book::sunglasses:
+I'm Gustavo Fabro, front-end developer with 9 years of professional experience in the field. Bachelor in computer science from UNESC (2014 - 2018). Focused on front-end and JavaScript development ecosystem (TypeScript, React, ReactNative, Angular, Node, Deno, HTML, CSS etc.).
 
 I currently work at [Upstart13](https://upstart13.com/) as front-end Software Engineer.
 
@@ -24,6 +24,5 @@ I currently work at [Upstart13](https://upstart13.com/) as front-end Software En
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gustavofabro.f@gmail.com)](mailto:gustavofabro.f@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-fabro-a42701132/)](https://www.linkedin.com/in/gustavo-fabro-a42701132/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gustavofabro_)](https://twitter.com/gustavofabro_)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=gustavofabro)
